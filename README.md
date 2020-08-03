@@ -1,4 +1,4 @@
-# buildings_classifier
+# Buildings_classifier
 
 In repository there is the firat project made during Advanced Image Processing laboratory classes at the Poznan University of Technology. Main target of project was the classificatiob of the five most popular buildings in Poznan based ob bag of visual words.
 Class names: Baltyk, Katedra, Okraglak, UAM, Teatr Wielki.
